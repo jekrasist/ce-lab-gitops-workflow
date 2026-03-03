@@ -8,7 +8,7 @@ terraform {
   }
 
   backend "s3" {
-    bucket         = "ce-bootcamp-tfstate-ahmeterdogan"
+    bucket         = "ce-bootcamp-tfstate-ahhdowurgehillmeterdoganov10"
     region         = "us-east-1"
     dynamodb_table = "terraform-locks"
     encrypt        = true
